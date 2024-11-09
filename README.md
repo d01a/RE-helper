@@ -1,2 +1,2 @@
 # RE-helper
-some helper scripts
+some random scripts
